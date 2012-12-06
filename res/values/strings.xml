@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Activity1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_contacts_sql">ContactsSql</string>
+    <string-array name="contact_option">
+         <item>Add contact</item>
+    </string-array>
+    <string-array name="contact_local_db_option">
+         <item>Edit contact</item>
+         <item>Delete contact</item>
+    </string-array>
+    
+    <string name="label_name_edit_contact">Name:</string>
+    <string name="label_number_edit_contact">Name:</string>
+    <string name="label_button_confirm_edit_contact">Edit Contact</string>
+    <string name="label_button_cancel_edit_contact">Cancel Contact</string>
+
+</resources>
